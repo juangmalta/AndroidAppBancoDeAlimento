@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_editar_perfil.xml" value="0.35572916666666665" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2995614035087719" />
-        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Users/drvmz/OneDrive/Documentos/Android/AndroidAppBancoDeAlimento/app/src/main/res/drawable/box_layout.xml" value="0.2265" />
+        <entry key="..\:/Users/drvmz/OneDrive/Documentos/Android/AndroidAppBancoDeAlimento/app/src/main/res/layout/activity_apadrinar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/drvmz/OneDrive/Documentos/Android/AndroidAppBancoDeAlimento/app/src/main/res/layout/activity_cart.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/drvmz/OneDrive/Documentos/Android/AndroidAppBancoDeAlimento/app/src/main/res/layout/activity_descripcion_producto.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/drvmz/OneDrive/Documentos/Android/AndroidAppBancoDeAlimento/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/edgar/OneDrive/Documentos/android/AndroidAppBancoDeAlimento/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
     </option>
   </component>
