@@ -4,15 +4,6 @@
     <option name="filePathToZoomLevelMap">
       <map>
 
-        <entry key="app/src/main/res/layout/activity_add_tarjeta.xml" value="0.1646209716796875" />
-        <entry key="app/src/main/res/layout/activity_donar.xml" value="0.2599075317382813" />
-        <entry key="app/src/main/res/layout/activity_editar_perfil.xml" value="0.35572916666666665" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2995614035087719" />
-        <entry key="app/src/main/res/layout/activity_pago.xml" value="0.25729166666666664" />
-        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.33" />
-        <entry key="app/src/main/res/layout/activity_tarjeta.xml" value="0.21908569335937506" />
-
-
         <entry key="..\:/Users/edgar/OneDrive/Documentos/android/AndroidAppBancoDeAlimento/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1921875" />
         <entry key="..\:/Users/edgar/OneDrive/Documentos/android/AndroidAppBancoDeAlimento/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1875" />
         <entry key="..\:/Users/edgar/OneDrive/Documentos/android/AndroidAppBancoDeAlimento/app/src/main/res/layout/activity_login.xml" value="0.21052631578947367" />
@@ -28,7 +19,6 @@
 
         <entry key="..\:/Users/drvmz/OneDrive/Documentos/Android/AndroidAppBancoDeAlimento/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/edgar/OneDrive/Documentos/android/AndroidAppBancoDeAlimento/app/src/main/res/layout/activity_main.xml" value="0.25" />
-
 
       </map>
     </option>
