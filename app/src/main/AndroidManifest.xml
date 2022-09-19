@@ -14,13 +14,21 @@
         android:theme="@style/Theme.AndroidAppBancoDeAlimentos"
         tools:targetApi="31">
         <activity
+
             android:name=".ApadrinarActivity"
+
+
+            android:name=".CartActivity"
+
+            android:name=".DescripcionProductoActivity"
+
             android:exported="false" />
         <activity
             android:name=".EditarPerfilActivity"
             android:exported="false" />
         <activity
             android:name=".ProfileActivity"
+
             android:exported="false" />
         <activity
             android:name=".MainActivity"
